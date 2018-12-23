@@ -1,0 +1,5 @@
+spark scala hadoop
+lll df dfs
+hive spark
+scala killen filenk
+yarn tigger mm
